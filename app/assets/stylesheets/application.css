@@ -12,5 +12,8 @@
  *= require_tree .
  */
 body {
-	padding-top: 40px;
+	padding-top: 45px;
+}
+.radio, .checkbox {
+	margin-left: 20px;
 }
